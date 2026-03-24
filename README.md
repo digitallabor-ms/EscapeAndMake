@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Stadtlogo 66-125mm rgb.png" alt="Stadt Münster" width="200">
+  <img src="/Stadtlogo 66-125mm rgb.png" alt="Stadt Münster" width="300">
 </p>
 
 # Escape & Make: Durch Tinkern, Coding und Making zum Meisterdieb
