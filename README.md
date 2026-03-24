@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="pfad/zum/stadt-muenster-logo.png" alt="Stadt Münster" width="200">
+</p>
+
 # Escape & Make: Durch Tinkern, Coding und Making zum Meisterdieb
 ## Einleitung zum Projekt
 
