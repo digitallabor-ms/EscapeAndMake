@@ -1,12 +1,7 @@
 <p align="center">
-  <img src="Stadtlogo 66-125mm rgb.png" alt="Stadt Münster" height="80">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Digitallabor_Muenster_Logo_Maske_RGB.png" alt="Digitallabor Logo" height="80">
-</p>
-<p align="center">
-  <img src="Stadtlogo 66-125mm rgb.png" alt="Stadt Münster" height="60">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Digitallabor_Muenster_Logo_Maske_RGB.png" alt="Digitallabor Münster" height="60">
+  <img src="Stadtlogo 66-125mm rgb.png" alt="Stadt Münster" height="70">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Digitallabor_Muenster_Logo_Maske_RGB.png" alt="Digitallabor Logo" height="70">
 </p>
 
 # Escape & Make: Durch Tinkern, Coding und Making zum Meisterdieb
