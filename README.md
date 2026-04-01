@@ -37,9 +37,9 @@ Das Konzept eignet sich für Gruppen von 14 bis 35 Personen ab ca. 9 Jahren. Die
 - **Freies Experimentieren:** restliche Zeit
 
 ## Geräte und Software
-Die Auswahl der Geräte und Anwendungen erfolgte auf Basis unserer Erfahrungswerte aus der Zusammenarbeit mit Schulen. Was kann realistisch in Schulen eingesetzt werden? Welche Werkzeuge ermöglichen einerseits schnelle Produktergebnisse und andererseits Möglichkeiten der Differenzierung? Was fördert Kreativität, Problemlösungskompetenz und Teamarbeit? Und was kann schon ab der 3./4. Klasse sinnvoll angewendet werden? werden? 
+Die Auswahl der Geräte und Anwendungen erfolgte auf Basis unserer Erfahrungswerte aus der Zusammenarbeit mit Schulen. Welche Werkzeuge ermöglichen einerseits schnelle Produktergebnisse und andererseits Möglichkeiten der Differenzierung? Was fördert Kreativität, Problemlösungskompetenz und Teamarbeit? Und was kann schon ab der 3./4. Klasse sinnvoll angewendet werden? 
 
-Unsere erste Version von „Escape & Make” wurde im Frühjahr 2025 erstellt, beinhaltete jedoch nur Geräte und Anwendungen, die wir vor der Landesinitiative „Digital Making Places” angeschafft hatten. In der aktuellen Version stehen an zwei Stationen jeweils zwei Geräte zur Auswahl. weil wir die neuen Geräte eingebunden haben. haben. 
+Unsere erste Version von „Escape & Make” wurde im Frühjahr 2025 erstellt, beinhaltete jedoch nur Geräte und Anwendungen, die wir vor der Landesinitiative „Digital Making Places” angeschafft hatten. In der aktuellen Version stehen an zwei Stationen jeweils zwei Geräte zur Auswahl, weil wir die neuen Geräte aus dem Förderpaket eingebunden haben. 
 
 Im Laufe der Zeit mussten wir jedoch mehrfach feststellen, dass uns entweder der technologische Wandel überholt oder die Herstellerabhängigkeit eingeholt hat. So mussten wir beispielsweise das KI-Bilderrätsel in der Station 3D-Druck neu gestalten, da KI-generierte Bilder innerhalb eines Jahres nicht mehr anhand der „typischen KI-Bildfehler” als solche erkennbar waren. An anderer Stelle hat der Hersteller der von uns verwendeten Minidrohnen beschlossen, keine weiteren Drohnen zu produzieren und die von uns genutzte Edu-App zum Drohnenfliegen einzustellen. Dies waren Rückschläge bei der Fertigstellung des Angebots, aber auch Erfahrungen, die wir in Zukunft immer häufiger machen werden. 
 
