@@ -6,12 +6,12 @@
 
 # Escape & Make: Durch Tinkern, Coding und Making zum Meisterdieb
 
-## Ansatz und Motivation:
+## Ansatz und Motivation
 „Escape & Make“ ist ein Vermittlungsangebot, das den Teilnehmenden ermöglicht, digitale Werkzeuge, die für den Einsatz im Bildungsbereich geeignet sind, auf spielerische Weise zu entdecken. Es kann mit Kindern ab 9 Jahren als auch mit Erwachsenen durchgeführt werden. 
 
 Als städtische Bildungseinrichtung haben wir das Angebot entwickelt, damit unsere Schüler:innen und Lehrkräfte neue Technologien aus den Bereichen Making, Coding und Tinker kennenlernen und für sich entdecken. Eine weitere Motivation stellt die umfassende Ausstattung im Bereich Making dar, die wir als Kommunales Medienzentrum in 2024 vom Ministerium für Schule und Bildung Nordrhein-Westfalen über das Landespilotprojekt "Digital Making Places" erhalten haben mit dem Ziel, die Werkzeuge für unsere Schulen nutzbar und verfügbar zu machen.
 
-## inleitung 
+## Einleitung 
 Escape & Make folgt einer von **Escape-Spielen** inspirierten Erzählstruktur über einen Meisterdieb, der für seinen nächsten großen Raubzug nach geeigneten Rekrut:innen unter den Teilnehmenden sucht. Die Teilnehmenden tauchen in die Welt des Diebes ein, der ihnen das Angebot macht, ihn bei seinem nächsten großen Raubzug zu unterstützen. Allerdings müssen sie vorab ihr Können unter Beweis zu stellen, indem sie bei der Vorbereitung des Raubzugs helfen und sich den Rätseln und Aufgaben des Meisterdiebs stellen.
 
 Die Aufgaben bestehen aus **7 Stationen**. An jeder Station müssen zunächst Rätsel gelöst werden, bevor die eigentliche Aufgabe mit den digitalen Werkzeugen umgesetzt werden kann. Hier verbinden sich klassische "Escape Game"-Elemente mit praktischer Medienkompetenz. Nur wenn es den Teilnehmenden gelingt, sowohl die Rätsel zu lösen als auch die richtige Ausführung der Aufgaben abzuliefern, werden sie für den großen Coup engagiert. Die Aufgaben werden im Team von min. 2 und max. 5 Teilnehmenden gelöst. Dafür haben die Meisterdieb-Rekturt:innen 60 Minuten Zeit. Detaillierte Umsetzungshinweise liegen im Ordner "Anleitung" ab. 
@@ -29,6 +29,7 @@ Die Aufgaben bestehen aus **7 Stationen**. An jeder Station müssen zunächst R�
 | 7 Der Presseartikel | Presseartikel verfassen | Künstliche Intelligenz |
 
 ## Zielgruppe
+
 Das Konzept eignet sich für Gruppen von 14 bis 35 Personen ab ca. 9 Jahren. Die Teilnehmer:innen arbeiten in Kleingruppen (2–5 Personen pro Station) und benötigen keine Vorkenntnisse.
 
 ## Zeitrahmen
@@ -40,6 +41,7 @@ Das Konzept eignet sich für Gruppen von 14 bis 35 Personen ab ca. 9 Jahren. Die
 - **Freies Experimentieren:** restliche Zeit
 
 ## Geräte und Software
+
 Die Auswahl der Geräte und Anwendungen erfolgte auf Basis unserer Erfahrungswerte aus der Zusammenarbeit mit Schulen. Welche Werkzeuge ermöglichen einerseits schnelle Produktergebnisse und andererseits Möglichkeiten der Differenzierung? Was fördert Kreativität, Problemlösungskompetenz und Teamarbeit? Und was kann schon ab der 3./4. Klasse sinnvoll angewendet werden? 
 
 Unsere erste Version von „Escape & Make” wurde im Frühjahr 2025 erstellt, beinhaltete jedoch nur Geräte und Anwendungen, die wir vor der Landesinitiative „Digital Making Places” angeschafft hatten. In der aktuellen Version stehen an zwei Stationen jeweils zwei Geräte zur Auswahl, weil wir die neuen Geräte aus dem Förderpaket eingebunden haben. 
@@ -47,7 +49,6 @@ Unsere erste Version von „Escape & Make” wurde im Frühjahr 2025 erstellt, b
 Im Laufe der Zeit mussten wir jedoch mehrfach feststellen, dass uns entweder der technologische Wandel überholt oder die Herstellerabhängigkeit eingeholt hat. So mussten wir beispielsweise das KI-Bilderrätsel in der Station 3D-Druck neu gestalten, da KI-generierte Bilder innerhalb eines Jahres nicht mehr anhand der „typischen KI-Bildfehler” als solche erkennbar waren. An anderer Stelle hat der Hersteller der von uns verwendeten Minidrohnen beschlossen, keine weiteren Drohnen zu produzieren und die von uns genutzte Edu-App zum Drohnenfliegen einzustellen. Dies waren Rückschläge bei der Fertigstellung des Angebots, aber auch Erfahrungen, die wir in Zukunft immer häufiger machen werden. 
 
 ## Inhalt dieses Repositories um das Angebot selbst durchführen zu können
-
 
 ├── Anleitung             # Detaillierte Stationsanleitungen mit Lösungen für die anleitende Person
 ├── Rätselgrafiken/       # Druckvorlagen für alle Rätsel
