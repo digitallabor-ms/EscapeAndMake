@@ -11,6 +11,8 @@ Escape & Make ist ein Vermittlungsangebot, das den Teilnehmenden ermöglicht, di
 
 Als städtische Bildungseinrichtung haben wir das Angebot entwickelt, damit unsere Schüler:innen und Lehrkräfte neue Technologien aus den Bereichen Making, Coding und Tinker kennenlernen und für sich entdecken. Eine weitere Motivation stellt die umfassende Ausstattung im Bereich Making dar, die wir als Kommunales Medienzentrum in 2024 vom Ministerium für Schule und Bildung Nordrhein-Westfalen über das Landespilotprojekt "Digital Making Places" erhalten haben mit dem Ziel, die Werkzeuge für unsere Schulen nutzbar und verfügbar zu machen.
 
+In Kooperation mit der Universtität Münster wurde Escape & Make im Rahmen des Projekts Euregionale Bildungskette (EDL)ins Niederländische übersetzt. (Ansatz?? LINK?)
+
 ## Einleitung 
 Escape & Make folgt einer von **Escape-Spielen** inspirierten Erzählstruktur über einen Meisterdieb, der für seinen nächsten großen Raubzug nach geeigneten Rekrut:innen unter den Teilnehmenden sucht. Die Teilnehmenden tauchen in die Welt des Diebes ein, der ihnen das Angebot macht, ihn bei seinem nächsten großen Raubzug zu unterstützen. Allerdings müssen sie vorab ihr Können unter Beweis zu stellen, indem sie bei der Vorbereitung des Raubzugs helfen und sich den Rätseln und Aufgaben des Meisterdiebs stellen.
 
@@ -30,7 +32,7 @@ Die Aufgaben bestehen aus **7 Stationen**. An jeder Station müssen zunächst R�
 
 ## Zielgruppe
 
-Das Konzept eignet sich für Gruppen von 14 bis 35 Personen ab ca. 9 Jahren. Die Teilnehmer:innen arbeiten in Kleingruppen (2–5 Personen pro Station) und benötigen keine Vorkenntnisse.
+Das Konzept eignet sich für Gruppen von 14 bis 35 Personen ab ca. 9 Jahren. Die Teilnehmer:innen arbeiten in Kleingruppen (2 bis 5 Personen pro Station) und benötigen keine Vorkenntnisse im Umgang mit den gelisteten Technologien. Jedoch sollten möglichst alle Stationen von einer Person begleitet werden. Wir haben mit einer Gruppengröße von 30 Personen das Format mit jeweils einer Person an zwei Stationen erfolgreich umgesetzt. 
 
 ## Zeitrahmen
 
