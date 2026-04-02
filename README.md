@@ -6,12 +6,12 @@
 
 # Escape & Make: Durch Tinkern, Coding und Making zum Meisterdieb
 
-##Ansatz und Motivation:
+## Ansatz und Motivation:
 „Escape & Make“ ist ein Vermittlungsangebot, das den Teilnehmenden ermöglicht, digitale Werkzeuge, die für den Einsatz im Bildungsbereich geeignet sind, auf spielerische Weise zu entdecken. Es kann mit Kindern ab 9 Jahren als auch mit Erwachsenen durchgeführt werden. 
 
 Als städtische Bildungseinrichtung haben wir das Angebot entwickelt, damit unsere Schüler:innen und Lehrkräfte neue Technologien aus den Bereichen Making, Coding und Tinker kennenlernen und für sich entdecken. Eine weitere Motivation stellt die umfassende Ausstattung im Bereich Making dar, die wir als Kommunales Medienzentrum in 2024 vom Ministerium für Schule und Bildung Nordrhein-Westfalen über das Landespilotprojekt "Digital Making Places" erhalten haben mit dem Ziel, die Werkzeuge für unsere Schulen nutzbar und verfügbar zu machen.
 
-##Einleitung 
+## inleitung 
 Escape & Make folgt einer von **Escape-Spielen** inspirierten Erzählstruktur über einen Meisterdieb, der für seinen nächsten großen Raubzug nach geeigneten Rekrut:innen unter den Teilnehmenden sucht. Die Teilnehmenden tauchen in die Welt des Diebes ein, der ihnen das Angebot macht, ihn bei seinem nächsten großen Raubzug zu unterstützen. Allerdings müssen sie vorab ihr Können unter Beweis zu stellen, indem sie bei der Vorbereitung des Raubzugs helfen und sich den Rätseln und Aufgaben des Meisterdiebs stellen.
 
 Die Aufgaben bestehen aus **7 Stationen**. An jeder Station müssen zunächst Rätsel gelöst werden, bevor die eigentliche Aufgabe mit den digitalen Werkzeugen umgesetzt werden kann. Hier verbinden sich klassische "Escape Game"-Elemente mit praktischer Medienkompetenz. Nur wenn es den Teilnehmenden gelingt, sowohl die Rätsel zu lösen als auch die richtige Ausführung der Aufgaben abzuliefern, werden sie für den großen Coup engagiert. Die Aufgaben werden im Team von min. 2 und max. 5 Teilnehmenden gelöst. Dafür haben die Meisterdieb-Rekturt:innen 60 Minuten Zeit. Detaillierte Umsetzungshinweise liegen im Ordner "Anleitung" ab. 
