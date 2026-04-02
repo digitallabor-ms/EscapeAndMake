@@ -7,7 +7,7 @@
 # Escape & Make: Durch Tinkern, Coding und Making zum Meisterdieb
 
 ## Ansatz und Motivation
-„Escape & Make“ ist ein Vermittlungsangebot, das den Teilnehmenden ermöglicht, digitale Werkzeuge, die für den Einsatz im Bildungsbereich geeignet sind, auf spielerische Weise zu entdecken. Es kann mit Kindern ab 9 Jahren als auch mit Erwachsenen durchgeführt werden. 
+Escape & Make ist ein Vermittlungsangebot, das den Teilnehmenden ermöglicht, digitale Werkzeuge, die für den Einsatz im Bildungsbereich geeignet sind, auf spielerische Weise zu entdecken. Es kann mit Kindern ab 9 Jahren als auch mit Erwachsenen durchgeführt werden. 
 
 Als städtische Bildungseinrichtung haben wir das Angebot entwickelt, damit unsere Schüler:innen und Lehrkräfte neue Technologien aus den Bereichen Making, Coding und Tinker kennenlernen und für sich entdecken. Eine weitere Motivation stellt die umfassende Ausstattung im Bereich Making dar, die wir als Kommunales Medienzentrum in 2024 vom Ministerium für Schule und Bildung Nordrhein-Westfalen über das Landespilotprojekt "Digital Making Places" erhalten haben mit dem Ziel, die Werkzeuge für unsere Schulen nutzbar und verfügbar zu machen.
 
