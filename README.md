@@ -52,7 +52,7 @@ Im Laufe der Zeit mussten wir jedoch mehrfach feststellen, dass uns entweder der
 
 ## Inhalt dieses Repositories um das Angebot selbst durchführen zu können
 
-├── Anleitung             # Detaillierte Stationsanleitungen mit Lösungen für die anleitende Person
+- **Anleitung:**#Detaillierte Stationsanleitungen mit Lösungen für die anleitende Person
 ├── Rätselgrafiken/       # Druckvorlagen für alle Rätsel
 ├── Audio/                # Intro- und Outro-Dateien
 ├── Videos/               # Videomaterial für Station 1
