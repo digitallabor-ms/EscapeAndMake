@@ -39,28 +39,24 @@ Das Konzept eignet sich für Gruppen von 14 bis 35 Personen ab ca. 9 Jahren. Die
 - **Gesamtdauer:** ca. 180 Minuten
 - **Einführung:** 30 Minuten
 - **Stationsarbeit:** 60 Minuten
-- **Finale & Präsentation:** 30 Minuten
+- **Finale & Präsentation der Arbeitsergebnisse:** 30 Minuten
 - **Freies Experimentieren:** restliche Zeit
 
 ## Geräte und Software
 
-Die Auswahl der Geräte und Anwendungen erfolgte auf Basis unserer Erfahrungswerte aus der Zusammenarbeit mit Schulen. Welche Werkzeuge ermöglichen einerseits schnelle Produktergebnisse und andererseits Möglichkeiten der Differenzierung? Was fördert Kreativität, Problemlösungskompetenz und Teamarbeit? Und was kann schon ab der 3./4. Klasse sinnvoll angewendet werden? 
+Die Auswahl der Geräte und Anwendungen erfolgte auf Basis unserer Erfahrungswerte aus der Zusammenarbeit mit Schulen. Welche Werkzeuge erlauben einerseits schnelle Produktergebnisse und eröffnen andererseits Möglichkeiten der Differenzierung? Welche Anwendungen fördern Kreativität, Problemlösungskompetenz und Teamarbeit? Und welche  schon ab der 3./4. Klasse sinnvoll angewendet werden? 
 
 Unsere erste Version von „Escape & Make” wurde im Frühjahr 2025 erstellt, beinhaltete jedoch nur Geräte und Anwendungen, die wir vor der Landesinitiative „Digital Making Places” angeschafft hatten. In der aktuellen Version stehen an zwei Stationen jeweils zwei Geräte zur Auswahl, weil wir die neuen Geräte aus dem Förderpaket eingebunden haben. 
 
 Im Laufe der Zeit mussten wir jedoch mehrfach feststellen, dass uns entweder der technologische Wandel überholt oder die Herstellerabhängigkeit eingeholt hat. So mussten wir beispielsweise das KI-Bilderrätsel in der Station 3D-Druck neu gestalten, da KI-generierte Bilder innerhalb eines Jahres nicht mehr anhand der „typischen KI-Bildfehler” als solche erkennbar waren. An anderer Stelle hat der Hersteller der von uns verwendeten Minidrohnen beschlossen, keine weiteren Drohnen zu produzieren und die von uns genutzte Edu-App zum Drohnenfliegen einzustellen. Dies waren Rückschläge bei der Fertigstellung des Angebots, aber auch Erfahrungen, die wir in Zukunft immer häufiger machen werden. 
 
-## Inhalt dieses Repositories um das Angebot selbst durchführen zu können
+## Inhalt dieses Repositories: 
 
-- **Anleitung:**#Detaillierte Stationsanleitungen mit Lösungen für die anleitende Person
-├── Rätselgrafiken/       # Druckvorlagen für alle Rätsel
-├── Audio/                # Intro- und Outro-Dateien
-├── Videos/               # Videomaterial für Station 1
-├── Druckvorlagen/        # Meisterbrief, Stationsschilder etc.
-├── 3D-Modelle/           # Vorlagen für den 3D-Druck
-├── Bauanleitungen/       # Anleitung für das Test-Lesegerät
-└── TaskCards/            # Digitale Pinnwände für die Stationen
-```
+Hier sind alle Materialien und Informationen hinterlegt, die benötigt werden, um das Angebot selbstständig durchzuführen. Dazu gehören finale Dateien, offene Unterlagen für die eingene Anpassung sowie Anleitungen für die Erstellung von Material. 
+
+- **Anleitung:** Detaillierte Stationsanleitungen mit Lösungen für die anleitende Person
+- **Einleitung und Finale:** Präsentationen für die Einführung sowie den Abschluss
+- **7 Stationen:** offene Arbeitsdateien, Dateien für die TaskCard, Druck- und Umsetzungsmaterialien
 
 
 ### Lizenzen
