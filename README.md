@@ -56,6 +56,7 @@ Hier sind alle Materialien und Informationen hinterlegt, die benötigt werden, u
 
 - **Anleitung:** Detaillierte Stationsanleitungen mit Lösungen für die anleitende Person
 - **Einleitung und Finale:** Präsentationen für die Einführung sowie den Abschluss
+- **TaskCard Pinnwand:** Arbeitsumgebung für die Umsetzung mit den Teilnehmenden 
 - **7 Stationen:** offene Arbeitsdateien, Dateien für die TaskCard, Druck- und Umsetzungsmaterialien
 
 
