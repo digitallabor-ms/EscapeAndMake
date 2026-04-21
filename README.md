@@ -22,7 +22,7 @@ Digitale Bildung lebt vom Austausch. Ziel ist ein reflektierter und handlungsori
 Daher stellen wir unseren Ansatz als OER zur Verfügung und laden dazu ein, die Materialien zu nutzen, anzupassen und weiterzuentwickeln.
 
 ## Niederländisch können wir auch :) 
-In Kooperation mit der Universität Münster wurden die Materialien im Rahmen des Projekts „Euregionale Bildungskette (EDL)“ ins Niederländische übersetzt. Das Projekt ist Teil des Interreg VI-Programms Deutschland–Nederland und wird von der Europäischen Union sowie weiteren Partnern gefördert. Die Materialien stehen hier zur Verfügung....
+In Kooperation mit der Universität Münster wurden die Materialien im Rahmen des Projekts „Euregionale Bildungskette (EDL)“ ins Niederländische übersetzt. Das Projekt ist Teil des Interreg VI-Programms Deutschland–Nederland und wird von der Europäischen Union sowie weiteren Partnern gefördert. Die Materialien stehen ebenfalls als OER hier zur Verfügung....
 
 ## Zur Umsetzung 
 Escape & Make folgt einer von **Escape-Spielen** inspirierten Erzählstruktur über einen Meisterdieb, der für seinen nächsten großen Raubzug nach geeigneten Rekrut:innen unter den Teilnehmenden sucht. Die Teilnehmenden tauchen in die Welt des Diebes ein, der ihnen das Angebot macht, ihn bei seinem nächsten großen Raubzug zu unterstützen. Allerdings müssen sie vorab ihr Können unter Beweis zu stellen, indem sie bei der Vorbereitung des Raubzugs helfen und sich den Rätseln und Aufgaben des Meisterdiebs stellen.
