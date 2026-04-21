@@ -9,9 +9,11 @@
 ## Ansatz und Motivation
 Escape & Make ist ein Vermittlungsangebot, das den Teilnehmenden ermöglicht, digitale Werkzeuge, die für den Einsatz im Bildungsbereich geeignet sind, auf spielerische Weise zu entdecken. Es kann mit Kindern ab 9 Jahren als auch mit Erwachsenen durchgeführt werden. 
 
-Als städtische Bildungseinrichtung und Schulträger haben wir das Angebot entwickelt, damit unsere Schüler:innen und Lehrkräfte neue Technologien aus den Bereichen Making, Coding und Tinker kennenlernen und für sich entdecken. Eine weitere Motivation stellt die umfassende Ausstattung im Bereich Making dar, die wir als Kommunales Medienzentrum in 2024 vom Ministerium für Schule und Bildung Nordrhein-Westfalen über das Landespilotprojekt "Digital Making Places" erhalten haben mit dem Ziel, die Werkzeuge für unsere Schulen nutzbar und verfügbar zu machen.
+Als städtische Bildungseinrichtung und Schulträger haben wir das Angebot entwickelt, damit unsere Schüler:innen, Lehrkräfte sowie weiteres pädagogisches Personal neue Technologien aus den Bereichen Making, Coding und Tinker kennenlernen und für sich entdecken. 
 
-In Kooperation mit der Universtität Münster wurde Escape & Make im Rahmen des Projekts Euregionale Bildungskette (EDL)ins Niederländische übersetzt. (Ansatz?? LINK?)
+Eine weitere Motivation stellt die umfassende Ausstattung im Bereich Making dar, die wir als Kommunales Medienzentrum in 2024 vom Ministerium für Schule und Bildung Nordrhein-Westfalen über das **Landespilotprojekt "Digital Making Places"** erhalten haben mit dem Ziel, die Werkzeuge für unsere Schulen nutzbar und verfügbar zu machen, damit Making als Lehr- und Lernkultur erprobt und implementiert wird. 
+
+In Kooperation mit der Universtität Münster wurde Escape & Make im Rahmen des Projekts Euregionale Bildungskette (EDL), das im Rahmen des Interreg VI-Programms Deutschland-Nederland durchgeführt und durch die Europäische Union, das MWIKE NRW und das MB Niedersachsen sowie die Provinzen Overijssel und Gelderland mitfinanziert, ins Niederländische übersetzt. Die Materialien stehen interessierten Lehrkäften (Ansatz?? LINK?)
 
 ## Einleitung 
 Escape & Make folgt einer von **Escape-Spielen** inspirierten Erzählstruktur über einen Meisterdieb, der für seinen nächsten großen Raubzug nach geeigneten Rekrut:innen unter den Teilnehmenden sucht. Die Teilnehmenden tauchen in die Welt des Diebes ein, der ihnen das Angebot macht, ihn bei seinem nächsten großen Raubzug zu unterstützen. Allerdings müssen sie vorab ihr Können unter Beweis zu stellen, indem sie bei der Vorbereitung des Raubzugs helfen und sich den Rätseln und Aufgaben des Meisterdiebs stellen.
