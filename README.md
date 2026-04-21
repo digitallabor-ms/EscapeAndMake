@@ -14,10 +14,7 @@ Als städtische Bildungseinrichtung und Schulträger haben wir Escape & Make ent
 ## Ausstattung und Einbindung in die Schulpraxis
 Eine weitere Motivation ist die erweiterte Ausstattung unseres Digitallabors im Rahmen des **Landespilotprojekts „Digital Making Places“** (2024). 53 Kommunale Medienzentren und 33 Zentren für schulparktische Lehrerausbildung in Nordrhein-Westfalen wurden dabei mit Anwendungen aus den Bereichen Visual, Audio, Tinker, Haptik und Virtual Reality ausgestattet, um Making als Lehr- und Lernkultur in Schulen zu erproben.
 
-Escape & Make übersetzt diese Zielsetzung in ein konkretes Format: Lehrende sammeln anwendungsnahe Erfahrungen, erproben Szenarien für den Unterricht und entwickeln Kompetenzen für zeitgemäße Bildungsangebote.
-
-
-ist die umfassende Ausstattung im Bereich Making, die wir in 2024 als Kommunales Medienzentrum im Rahmen des **Landespilotprojekts „Digital Making Places“** vom Ministerium für Schule und Bildung Nordrhein-Westfalen erhalten haben. Das Digitallabor wurde zusammen mit 52 weiteren Kommunalen Medienzentren und 33 Zentren für schulpraktische Lehrerausbildung in Nordrhein-Westfalen mit Anwendungen und digitalen Werkzeugen aus vier Kreativbereichen (Visual, Audio, Tinker, Haptik sowie Virtual Reality) ausgestattet, mit dem Ziel, die Werkzeuge für unsere Schulen nutzbar und verfügbar zu machen, damit Making als Lehr- und Lernkultur erprobt und implementiert wird. Mit Escape & Make übersetzen wir diese Zielsetzung in ein konkretes, erprobbares Format: Lehrende sammeln spielerisch anwendungsnahe Erfahrungen, reflektieren Einsatzmöglichkeiten im Unterricht und entwickeln Kompetenzen, die für zeitgemäße Bildungsangebote zentral sind. 
+Escape & Make übersetzt diese Zielsetzung in ein konkretes Format: Lehrende sammeln anwendungsnahe Erfahrungen, erproben Szenarien für den Unterricht, entwickeln Kompetenzen für zeitgemäße Bildungsangebot und werden motiviert, die Werkzeuge auszuleihen, um sie im Schulalltag zu testen. 
 
 ## Gemeinsam geht es besser
 Digitale Bildung lebt vom Austausch. Ziel ist ein reflektierter und handlungsorientierter Umgang mit digitalen Werkzeugen. Offene Materialien können dazu beitragen, Erfahrungen zu teilen, Ressourcen effizient zu nutzen und Entwicklungen gemeinsam weiterzudenken.
