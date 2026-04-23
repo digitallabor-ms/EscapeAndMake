@@ -7,14 +7,14 @@
 # Escape & Make: Durch Tinkern, Coding und Making zum Meisterdieb
 
 ## Ansatz und Motivation
-Escape & Make ist ein Vermittlungsangebot, das den Teilnehmenden ermöglicht, digitale Werkzeuge, die für den Einsatz im Bildungsbereich geeignet sind, auf spielerische Weise zu entdecken. Es kann mit Kindern ab 9 Jahren als auch mit Erwachsenen durchgeführt werden. 
+Escape & Make ist ein Vermittlungsangebot, das den Teilnehmenden ermöglicht, digitale Werkzeuge, die für den Einsatz im Bildungsbereich geeignet sind, auf spielerische Weise zu entdecken. Es kann sowohl mit Kindern ab 10 Jahren als auch mit Erwachsenen durchgeführt werden. 
 
 Als städtische Bildungseinrichtung und Schulträger haben wir Escape & Make entwickelt, um Schüler:innen, Lehrkräften sowie weiterem pädagogischem Personal einen strukturierten, niedrigschwelligen Zugang zu neuen Technologien aus den Bereichen Making, Coding und Tinkering zu eröffnen. Ziel ist es, die Integration dieser Kompetenzen und Methoden in schulische Lehr- und Lernsettings praktisch zu unterstützen. Lehrkräfte sammeln eigene Erfahrungen mit digitalen Werkzeugen und reflektieren deren Einsatzmöglichkeiten im Unterricht – auch im Hinblick auf eine nachhaltige und fächerübergreifende Verankerung.
 
 ## Ausstattung und Einbindung in die Schulpraxis
-Eine weitere Motivation ist die erweiterte Ausstattung unseres Digitallabors im Rahmen des **Landespilotprojekts „Digital Making Places“** (2024). 53 Kommunale Medienzentren und 33 Zentren für schulpraktische Lehrerausbildung in Nordrhein-Westfalen wurden dabei mit Anwendungen aus den Bereichen Visual, Audio, Tinker, Haptik und Virtual Reality ausgestattet, um Making als Lehr- und Lernkultur in Schulen zu erproben.
+Eine weitere Motivation ist die erweiterte Ausstattung unseres Digitallabors im Rahmen des **Landespilotprojekts „Digital Making Places“** (2024). 53 Kommunale Medienzentren und 33 Zentren für schulpraktische Lehrerausbildung in Nordrhein-Westfalen wurden dabei mit Geräte aus den Bereichen Visual, Audio, Tinker, Haptik und Virtual Reality ausgestattet, um Making als Lehr- und Lernkultur in Schulen erfahrbar zu machen.
 
-Escape & Make übersetzt diese Zielsetzung in ein konkretes Format: Lehrende sammeln anwendungsnahe Erfahrungen, erproben Szenarien für den Unterricht, entwickeln Kompetenzen für zeitgemäße Bildungsangebot und werden motiviert, die Werkzeuge auszuleihen, um sie im Schulalltag zu testen. 
+Escape & Make übersetzt diese Zielsetzung in ein konkretes Format: Lehrende sammeln problembezogen Erfahrungen, erproben Szenarien für den Unterricht, entwickeln Kompetenzen für zeitgemäße Bildungsangebote und werden motiviert, die Werkzeuge auszuleihen, um sie im Schulalltag zu testen. 
 
 ## Gemeinsam geht es besser
 Digitale Bildung lebt vom Austausch. Ziel ist ein reflektierter und handlungsorientierter Umgang mit digitalen Werkzeugen. Offene Materialien können dazu beitragen, Erfahrungen zu teilen, Ressourcen effizient zu nutzen und Entwicklungen gemeinsam weiterzudenken.
@@ -25,13 +25,13 @@ Daher stellen wir unseren Ansatz als OER zur Verfügung und laden dazu ein, die 
 In Kooperation mit der Universität Münster wurden die Materialien im Rahmen des Projekts „Euregionale Bildungskette (EDL)“ ins Niederländische übersetzt. Das Projekt ist Teil des Interreg VI-Programms Deutschland–Nederland und wird von der Europäischen Union sowie weiteren Partnern gefördert. Die Materialien stehen ebenfalls als OER hier zur Verfügung....
 
 ## Zur Umsetzung 
-Escape & Make folgt einer von **Escape-Spielen** inspirierten Erzählstruktur über einen Meisterdieb, der für seinen nächsten großen Raubzug nach geeigneten Rekrut:innen unter den Teilnehmenden sucht. Die Teilnehmenden tauchen in die Welt des Diebes ein, der ihnen das Angebot macht, ihn bei seinem nächsten großen Raubzug zu unterstützen. Allerdings müssen sie vorab ihr Können unter Beweis zu stellen, indem sie bei der Vorbereitung des Raubzugs helfen und sich den Rätseln und Aufgaben des Meisterdiebs stellen.
+Escape & Make folgt einer von **Escape-Spielen** inspirierten Erzählstruktur über einen Meisterdieb, der für seinen nächsten großen Raubzug nach geeigneten Rekrut:innen unter den Teilnehmenden sucht. Die Teilnehmenden tauchen in die Welt des Diebes ein, der ihnen das Angebot macht, ihn bei seinem nächsten großen Raubzug zu unterstützen. Allerdings müssen sie vorab ihr Können unter Beweis stellen, indem sie bei der Vorbereitung des Raubzugs helfen und sich den Rätseln und Aufgaben des Meisterdiebs stellen.
 
-Die Aufgaben bestehen aus **7 Stationen**. An jeder Station müssen zunächst Rätsel gelöst werden, bevor die eigentliche Aufgabe umgesetzt werden kann, die immer ein digitales Werkzeug zum Einsatz bringt. Hier verbinden sich klassische "Escape Game"-Elemente mit praktischer Medienkompetenz. Nur wenn es den Teilnehmenden gelingt, sowohl die Rätsel zu lösen als auch die richtige Ausführung der Aufgaben abzuliefern, werden sie für den großen Coup engagiert. Die Aufgaben werden im Team von min. 2 und max. 5 Teilnehmenden gelöst. Dafür haben die Meisterdieb-Rekturt:innen 60 Minuten Zeit. Detaillierte Umsetzungshinweise liegen im Ordner "Anleitung" ab. 
+Die Aufgaben bestehen aus **7 Stationen**. An jeder Station müssen zunächst Rätsel gelöst werden, bevor die eigentliche Aufgabe umgesetzt werden kann, die immer ein digitales Werkzeug zum Einsatz bringt. Hier verbinden sich klassische "Escape Game"-Elemente mit praktischer Medienkompetenz. Nur wenn es den Teilnehmenden arbeitsteilig gelingt, sowohl die jeweiligen Rätsel zu lösen als auch die richtigen Ausführungen der Aufgaben abzuliefern, werden sie für den großen Coup engagiert. Die einzelnen Aufgaben werden im Team von jeweils 2 bis 5 Teilnehmenden kollaborativ gelöst. Dafür haben die Meisterdieb-Rekturt:innen 60 Minuten Zeit. Detaillierte Umsetzungshinweise liegen im Ordner "Anleitung" bei. 
 
 ## Die sieben Stationen
 
-| Station | Aufgabe | Technologie |
+| Station | Aufgabe | Technologie | erprobte Geräte
 |---------|---------|-------------|
 | 1 Das Überwachungsvideo | Überwachungsvideo ersetzen | Greenscreen-Filmtechnik |
 | 2 Die Schlüsselkarte | Schlüsselkarte fälschen | Lasercutting |
