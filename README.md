@@ -31,8 +31,8 @@ Die Aufgaben bestehen aus **7 Stationen**. An jeder Station müssen zunächst R�
 
 ## Die sieben Stationen
 
-| Station | Aufgabe | Technologie | erprobte Geräte
-|---------|---------|-------------|
+| Station | Aufgabe | Technologie | erprobte Geräte |
+|---------|---------|-------------|-----------------|
 | 1 Das Überwachungsvideo | Überwachungsvideo ersetzen | Greenscreen-Filmtechnik |
 | 2 Die Schlüsselkarte | Schlüsselkarte fälschen | Lasercutting |
 | 3 Der Doppelgänger USB-Stick| USB-Stick duplizieren | 3D-Druck |
