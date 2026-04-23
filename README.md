@@ -31,15 +31,15 @@ Die Aufgaben bestehen aus **7 Stationen**. An jeder Station müssen zunächst R�
 
 ## Die sieben Stationen
 
-| Station | Aufgabe | Technologie | erprobte Geräte |
+| Station | Aufgabe | Technologie | erprobte Geräte und Anwendungen |
 |---------|---------|-------------|-----------------|
-| 1 Das Überwachungsvideo | Überwachungsvideo ersetzen | Greenscreen-Filmtechnik |
-| 2 Die Schlüsselkarte | Schlüsselkarte fälschen | Lasercutting |
-| 3 Der Doppelgänger USB-Stick| USB-Stick duplizieren | 3D-Druck |
-| 4 Der Lichtschalter | Lichtschalter betätigen | programmierbarer Roboter|
-| 5 Der Drohnenflug | Datenstick transportieren | Drohnenfliegen mit Code |
-| 6 Das Erpresserviedeo | Erpresservideo drehen | Stop Motion Filmtechnik |
-| 7 Der Presseartikel | Presseartikel verfassen | Künstliche Intelligenz |
+| 1 Das Überwachungsvideo | Überwachungsvideo ersetzen | Greenscreen-Filmtechnik | Greenscreen by Doink 
+| 2 Die Schlüsselkarte | Schlüsselkarte fälschen | Lasercutting | Mr. Beam Lasercutter und Shaper Trace
+| 3 Der Doppelgänger USB-Stick| USB-Stick duplizieren | 3D-Druck | Prusa und BambuLab PS1, mini
+| 4 Der Lichtschalter | Lichtschalter betätigen | programmierbarer Roboter| Lego Spike, Mbot 2, Calliope 
+| 5 Der Drohnenflug | Datenstick transportieren | Drohnenfliegen mit Code | Tello, Litebee Wing
+| 6 Das Erpresserviedeo | Erpresservideo drehen | Stop Motion Filmtechnik | Stop Motion Studio
+| 7 Der Presseartikel | Presseartikel verfassen | Künstliche Intelligenz | fobizz
 
 ## Zielgruppe
 
