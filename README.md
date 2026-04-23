@@ -98,11 +98,11 @@ Diese Drittmaterialien unterliegen möglicherweise nicht der CC BY-NC-SA 4.0 Liz
 
 ## Mitwirkende
 
-Dieses Projekt wurde entwickelt vom Team des **Digitallabors**:
+Dieses Projekt wurde entwickelt vom Team des **Digitallabors Münster**:
 
-- **Konzept & Projektleitung:** Seida Bathovic
+- **Konzept:** Lena Otte, Sabine 
 - **Rätseldesign & Grafiken:** Lena Otte
 - **Texte:** Sabine
-- **Weitere Mitwirkende:** Dominik 
+- **mit fachlicher Unterstützung des Digitallabors:** Seida Bahtovic, Torsten Henseler, Annika Junge, Andreas Kölzer, Dominik Sacha, Martin Sanetra, David Schinowski 
 
 
