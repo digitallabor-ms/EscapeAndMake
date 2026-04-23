@@ -100,9 +100,9 @@ Diese Drittmaterialien unterliegen möglicherweise nicht der CC BY-NC-SA 4.0 Liz
 
 Dieses Projekt wurde entwickelt vom Team des **Digitallabors Münster**:
 
-- **Konzept:** Lena Otte, Sabine 
-- **Rätseldesign & Grafiken:** Lena Otte
-- **Texte:** Sabine
-- **mit fachlicher Unterstützung des Digitallabors:** Seida Bahtovic, Torsten Henseler, Annika Junge, Andreas Kölzer, Dominik Sacha, Martin Sanetra, David Schinowski 
+- **Konzept:** Lena Otte, Sabine Kuhlbusch
+- **Rätseldesign & Grafiken:** Lena Otte, Seida Bahtovic
+- **Rätseltexte:** Sabine Kuhlbusch
+- **mit fachlicher Unterstützung des Digitallabors - insb. bei medienpädaogischer Anleitung und technischer Umsetzung der Aufgaben:** Seida Bahtovic, Torsten Henseler, Annika Junge, Andreas Kölzer, Dominik Sacha, Martin Sanetra, David Schinowski 
 
 
