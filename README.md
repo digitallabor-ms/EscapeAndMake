@@ -12,7 +12,7 @@ Escape & Make ist ein Vermittlungsangebot, das den Teilnehmenden ermöglicht, di
 Als städtische Bildungseinrichtung und Schulträger haben wir Escape & Make entwickelt, um Schüler:innen, Lehrkräften sowie weiterem pädagogischem Personal einen strukturierten, niedrigschwelligen Zugang zu neuen Technologien aus den Bereichen Making, Coding und Tinkering zu eröffnen. Ziel ist es, die Integration dieser Kompetenzen und Methoden in schulische Lehr- und Lernsettings praktisch zu unterstützen. Lehrkräfte sammeln eigene Erfahrungen mit digitalen Werkzeugen und reflektieren deren Einsatzmöglichkeiten im Unterricht – auch im Hinblick auf eine nachhaltige und fächerübergreifende Verankerung.
 
 ## Ausstattung und Einbindung in die Schulpraxis
-Eine weitere Motivation stellen die digitalen Werkzeuge dar, die dem Digitallabor Münster im Rahmen des **Landespilotprojekts „Digital Making Places“** (2024) durch das Ministerium für Schule und Bildung Nordrhein-Westfalen (MSB) zur Verfügung gestellten wurden. 45 Kommunale Medienzentren und 33 Zentren für schulpraktische Lehrerausbildung in Nordrhein-Westfalen haben mit Werkzeuge und Geräte aus den Bereichen Visual, Audio, Tinker, Haptik und Virtual Reality erhalten, um Making als Lehr- und Lernkultur in Schulen vor Ort erfahrbar zu machen.
+Eine weitere Motivation stellen die digitalen Werkzeuge dar, die dem Digitallabor Münster im Rahmen des **Landespilotprojekts „Digital Making Places“** (2024) durch das Ministerium für Schule und Bildung Nordrhein-Westfalen (MSB) zur Verfügung gestellten wurden. 45 Kommunale Medienzentren und 33 Zentren für schulpraktische Lehrerausbildung in Nordrhein-Westfalen haben Geräte aus den Bereichen Visual, Audio, Tinker, Haptik erhalten, um Making als Lehr- und Lernkultur in Schulen vor Ort erfahrbar zu machen.
 
 Escape & Make übersetzt diese Zielsetzung in ein konkretes Format: Lehrende sammeln problembezogen Erfahrungen, erproben Szenarien für den Unterricht, entwickeln Kompetenzen für zeitgemäße Bildungsangebote und werden motiviert, die Werkzeuge auszuleihen, um sie im Schulalltag zu testen. 
 
@@ -43,7 +43,7 @@ Die Aufgaben bestehen aus **7 Stationen**. An jeder Station müssen zunächst R�
 
 ## Zielgruppe
 
-Das Konzept eignet sich für Gruppen von 14 bis 35 Personen ab ca. 9 Jahren. Die Teilnehmer:innen arbeiten in Kleingruppen (2 bis 5 Personen pro Station) und benötigen keine Vorkenntnisse im Umgang mit den gelisteten Technologien. Jedoch sollten möglichst alle Stationen von einer Person begleitet werden. Wir haben mit einer Gruppengröße von 30 Personen das Format mit jeweils einer Person an zwei Stationen erfolgreich umgesetzt. 
+Das Konzept eignet sich für Gruppen von 14 bis 35 Personen ab ca. 9 Jahren. Die Teilnehmer:innen arbeiten in Kleingruppen (2 bis 5 Personen pro Station) und benötigen keine Vorkenntnisse im Umgang mit den gelisteten Technologien. Jedoch sollten möglichst alle Stationen von einer Person begleitet werden. Wir haben das Format mit einer Gruppengröße von 30 Personen auch schon erfolgreich mit jeweils einer Person an zwei Stationen umgesetzt. 
 
 ## Zeitrahmen
 
@@ -92,8 +92,10 @@ Einige in diesem Projekt verwendete Materialien stammen aus externen Quellen mit
 | Café_2.png | Unsplash | Foto von <a href="https://unsplash.com/de/@rawkkim?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">rawkkim</a> auf <a href="https://unsplash.com/de/fotos/ein-paar-leute-sitzen-auf-einer-bank-wQUD2xYXCqo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>|
 | Café.png 1,3,4  | Mit KI-Unterstützung (Nano Banana Pro) | – |
       
-
 Diese Drittmaterialien unterliegen möglicherweise nicht der CC BY-NC-SA 4.0 Lizenz. Bei Weiterverwendung bitte die jeweiligen Lizenzbedingungen beachten.
+
+**Bitte Audiodateien nicht mit KI bearbeiten**
+Darüberhinaus bitten wir alle Nutzenden, die Audiodateien nicht in eine KI-Anwendung hochzuladen, da wir mit einem professionellen Sprecher gearbeitet haben. 
 
 
 ## Mitwirkende
