@@ -35,7 +35,7 @@ Die Aufgaben bestehen aus **7 Stationen**. An jeder Station müssen zunächst R�
 |---------|---------|-------------|-----------------|
 | 1 Das Überwachungsvideo | Überwachungsvideo ersetzen | Greenscreen-Filmtechnik | Greenscreen by Doink 
 | 2 Die Schlüsselkarte | Schlüsselkarte fälschen | Lasercutting | Mr. Beam Lasercutter und Shaper Trace
-| 3 Der Doppelgänger USB-Stick| USB-Stick duplizieren | 3D-Druck | Prusa und BambuLab PS1, mini
+| 3 Der USB-Stick| USB-Stick duplizieren | 3D-Druck | Prusa und BambuLab p1s, mini
 | 4 Der Lichtschalter | Lichtschalter betätigen | programmierbarer Roboter| Lego Spike, Mbot 2, Calliope 
 | 5 Der Drohnenflug | Datenstick transportieren | Drohnenfliegen mit Code | Tello, Litebee Wing
 | 6 Das Erpresserviedeo | Erpresservideo drehen | Stop Motion Filmtechnik | Stop Motion Studio
