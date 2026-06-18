@@ -95,6 +95,7 @@ Einige in diesem Projekt verwendete Materialien stammen aus externen Quellen mit
 Diese Drittmaterialien unterliegen möglicherweise nicht der CC BY-NC-SA 4.0 Lizenz. Bei Weiterverwendung bitte die jeweiligen Lizenzbedingungen beachten.
 
 **Bitte Audiodateien nicht mit KI bearbeiten**
+
 Darüberhinaus bitten wir alle Nutzenden, die Audiodateien nicht in eine KI-Anwendung hochzuladen, da wir mit einem professionellen Sprecher gearbeitet haben. 
 
 
