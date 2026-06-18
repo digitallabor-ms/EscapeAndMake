@@ -100,7 +100,7 @@ Darüberhinaus bitten wir alle Nutzenden, die Audiodateien nicht in eine KI-Anwe
 
 ## Mitwirkende
 
-Dieses Projekt wurde entwickelt vom Team des **Digitallabors Münster**:
+Dieses Projekt wurde entwickelt mit:
 
 - **Konzept:** Lena Otte, Sabine Kuhlbusch
 - **Rätseldesign & Grafiken:** Lena Otte, Seida Bahtovic
