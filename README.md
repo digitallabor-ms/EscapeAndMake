@@ -27,7 +27,7 @@ In Kooperation mit der Universität Münster wurden die Materialien im Rahmen de
 ## Zur Umsetzung 
 Escape & Make folgt einer von **Escape-Spielen** inspirierten Erzählstruktur über einen Meisterdieb, der für seinen nächsten großen Raubzug nach geeigneten Rekrut:innen unter den Teilnehmenden sucht. Die Teilnehmenden tauchen in die Welt des Diebes ein, der ihnen das Angebot macht, ihn bei seinem nächsten großen Raubzug zu unterstützen. Allerdings müssen sie vorab ihr Können unter Beweis stellen, indem sie bei der Vorbereitung des Raubzugs helfen und sich den Rätseln und Aufgaben des Meisterdiebs stellen.
 
-Die Aufgaben bestehen aus **7 Stationen**. An jeder Station müssen zunächst Rätsel gelöst werden, bevor die eigentliche Aufgabe umgesetzt werden kann, die immer ein digitales Werkzeug zum Einsatz bringt. Hier verbinden sich klassische "Escape Game"-Elemente mit praktischer Medienkompetenz. Nur wenn es den Teilnehmenden arbeitsteilig gelingt, sowohl die jeweiligen Rätsel zu lösen als auch die richtigen Ausführungen der Aufgaben abzuliefern, werden sie für den großen Coup engagiert. Die einzelnen Aufgaben werden im Team von jeweils 2 bis 5 Teilnehmenden kollaborativ gelöst. Dafür haben die Meisterdieb-Rekturt:innen 60 Minuten Zeit. Detaillierte Umsetzungshinweise liegen im Ordner "Anleitung" bei. 
+Die Aufgaben bestehen aus **7 Stationen**. An jeder Station müssen zunächst Rätsel gelöst werden, bevor die eigentliche Aufgabe umgesetzt werden kann, die immer ein digitales Werkzeug zum Einsatz bringt. Hier verbinden sich klassische "Escape Game"-Elemente mit praktischer Medienkompetenz. Nur wenn es den Teilnehmenden arbeitsteilig gelingt, sowohl die jeweiligen Rätsel zu lösen als auch die richtigen Ausführungen der Aufgaben innerhalb von 60 Minuten abzuliefern, werden sie für den großen Coup engagiert. Die einzelnen Aufgaben werden im Team von jeweils 2 bis 5 Teilnehmenden kollaborativ gelöst. Dafür haben die Meisterdieb-Rekturt:innen 60 Minuten Zeit. Detaillierte Umsetzungshinweise liegen im Ordner "Anleitung" bei. 
 
 ## Die sieben Stationen
 
@@ -91,7 +91,7 @@ Einige in diesem Projekt verwendete Materialien stammen aus externen Quellen mit
 | Alpaka.png 1-3| Mit KI-Unterstützung (Nano Banana Pro) | – |
 | Café_2.png | Unsplash | Foto von <a href="https://unsplash.com/de/@rawkkim?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">rawkkim</a> auf <a href="https://unsplash.com/de/fotos/ein-paar-leute-sitzen-auf-einer-bank-wQUD2xYXCqo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>|
 | Café.png 1,3,4  | Mit KI-Unterstützung (Nano Banana Pro) | – |
-      
+
 Diese Drittmaterialien unterliegen möglicherweise nicht der CC BY-NC-SA 4.0 Lizenz. Bei Weiterverwendung bitte die jeweiligen Lizenzbedingungen beachten.
 
 **Bitte Audiodateien nicht mit KI bearbeiten**
@@ -105,6 +105,7 @@ Dieses Projekt wurde entwickelt vom Team des **Digitallabors Münster**:
 - **Konzept:** Lena Otte, Sabine Kuhlbusch
 - **Rätseldesign & Grafiken:** Lena Otte, Seida Bahtovic
 - **Rätseltexte:** Sabine Kuhlbusch
+- **Audiodateien:** Christoph Schatzki 
 - **mit fachlicher Unterstützung des Digitallabors - insb. bei medienpädaogischer Anleitung und technischer Umsetzung der Aufgaben:** Seida Bahtovic, Torsten Henseler, Annika Junge, Andreas Kölzer, Dominik Sacha, Martin Sanetra, David Schinowski 
 
 
