@@ -65,7 +65,7 @@ Im Laufe der Zeit mussten wir mehrfach feststellen, dass uns entweder der techno
 
 Hier sind alle Materialien und Informationen hinterlegt, die benötigt werden, um das Angebot selbstständig durchzuführen. Dazu gehören finale Dateien, offene Unterlagen für die eingene Anpassung sowie Anleitungen für die Erstellung von Material. 
 
-- **Umsetzungsanleitung:** FOLGT IN KÜRZ: Für den ersten Einstieg bietet sich die Präsentation zur Umsetzung für die vermittelnd tätigen Personen an. Dort findet Ihr Infos zum Ablauf sowie zur Vorbereitung der Stationen. 
+- **Umsetzungsanleitung:** FOLGT IN KÜRZE: Für den ersten Einstieg bietet sich die Präsentation zur Umsetzung für die vermittelnd tätigen Personen an. Dort findet Ihr Infos zum Ablauf sowie zur Vorbereitung der Stationen. 
 - **Anleitung:** Detaillierte Stationsanleitungen mit Lösungen für die anleitende Person
 - **Einleitung und Finale:** Präsentationen für die Einführung sowie den Abschluss
 - **TaskCard Pinnwand:** Arbeitsumgebung für die Umsetzung mit den Teilnehmenden - https://ms-digital.taskcards.app/#/board/4a86e9a5-30eb-4588-8043-827c05504fed/view 
