@@ -43,7 +43,7 @@ Die Aufgaben bestehen aus **7 Stationen**. An jeder Station müssen zunächst R�
 
 ## Zielgruppe
 
-Das Konzept eignet sich für Gruppen von 14 bis 35 Personen ab ca. 9 Jahren. Die Teilnehmer:innen arbeiten in Kleingruppen (2 bis 5 Personen pro Station) und benötigen keine Vorkenntnisse im Umgang mit den gelisteten Technologien. Jedoch sollten möglichst alle Stationen von einer Person begleitet werden. Wir haben das Format mit einer Gruppengröße von 30 Personen auch schon erfolgreich mit jeweils einer Person an zwei Stationen umgesetzt. 
+Das Konzept eignet sich für Gruppen von 14 bis 35 Personen ab 10 Jahren. Die Teilnehmer:innen arbeiten in Kleingruppen (2 bis 5 Personen pro Station) und benötigen keine Vorkenntnisse im Umgang mit den gelisteten Technologien. Jedoch sollten möglichst alle Stationen von einer Person begleitet werden. Wir haben das Format mit einer Gruppengröße von 30 Personen auch schon erfolgreich mit jeweils einer Person an zwei Stationen umgesetzt. 
 
 ## Zeitrahmen
 
@@ -55,16 +55,17 @@ Das Konzept eignet sich für Gruppen von 14 bis 35 Personen ab ca. 9 Jahren. Die
 
 ## Geräte und Software
 
-Die Auswahl der Geräte und Anwendungen erfolgte auf Basis unserer Erfahrungswerte aus der Zusammenarbeit mit Schulen. Welche Werkzeuge erlauben einerseits schnelle Produktergebnisse und eröffnen andererseits Möglichkeiten der Differenzierung? Welche Anwendungen fördern Kreativität, Problemlösungskompetenz und Teamarbeit? Und welche  schon ab der 3./4. Klasse sinnvoll angewendet werden? 
+Die Auswahl der Geräte und Anwendungen erfolgte auf Basis unserer Erfahrungswerte aus der Zusammenarbeit mit Schulen. Welche Werkzeuge erlauben einerseits schnelle Produktergebnisse und eröffnen andererseits Möglichkeiten der Differenzierung? Welche Anwendungen fördern Kreativität, Problemlösungskompetenz und Teamarbeit? Und welche digitalen Werkzeuge können schon ab der 4. Klasse sinnvoll angewendet werden? 
 
 Unsere erste Version von „Escape & Make” wurde im Frühjahr 2025 erstellt, beinhaltete jedoch nur Werkzeuge und Geräte, die wir vor der Landesinitiative „Digital Making Places” im Einsatz hatten. In der aktuellen Version stehen deshalb an zwei Stationen jeweils zwei Werkzeuge zur Auswahl bei der Aufgabenbearbeitung. 
 
-Im Laufe der Zeit mussten wir mehrfach feststellen, dass uns entweder der technologische Wandel überholt oder die Herstellerabhängigkeit eingeholt hat. Beispielsweise haben wir das KI-Bilderrätsel in der Station 3D-Druck neu gestaltet, da KI-generierte Bilder innerhalb eines Jahres nicht mehr anhand der „typischen KI-Bildfehler” als solche erkennbar sind. An anderer Stelle hat der Hersteller, der von uns verwendeten Minidrohnen und der dazugehörnden Edu-App, beschlossen, keine weiteren Drohnen zu produzieren sowie die App einzustellen. Dies waren Rückschläge bei der Fertigstellung des Angebots, aber auch Erfahrungen, die wir in Zukunft immer häufiger machen werden. 
+Im Laufe der Zeit mussten wir mehrfach feststellen, dass uns entweder der technologische Wandel überholt oder die Herstellerabhängigkeit eingeholt hat. Beispielsweise haben wir das KI-Bilderrätsel in der Station 3D-Druck neu gestaltet, da KI-generierte Bilder innerhalb eines Jahres nicht mehr anhand der „typischen KI-Bildfehler” als solche erkennbar sind. An anderer Stelle hat der Hersteller, der von uns verwendeten Minidrohnen und der dazugehörnden Edu-App, beschlossen, keine weiteren Drohnen zu produzieren und die App einzustellen. Dies waren Rückschläge bei der Fertigstellung des Angebots, aber auch Erfahrungen, die wir in Zukunft immer häufiger machen werden. Auch deshalb liegt uns viel daran, Konzepte und Erfahrungen zu teilen und wir hoffen, dass auch unser Konzept von Euren Beiträgen und Ideen profitieren wird. 
 
 ## Inhalt dieses Repositories: 
 
 Hier sind alle Materialien und Informationen hinterlegt, die benötigt werden, um das Angebot selbstständig durchzuführen. Dazu gehören finale Dateien, offene Unterlagen für die eingene Anpassung sowie Anleitungen für die Erstellung von Material. 
 
+- **Umsetzungsanleitung:** FOLGT IN KÜRZ: Für den ersten Einstieg bietet sich die Präsentation zur Umsetzung für die vermittelnd tätigen Personen an. Dort findet Ihr Infos zum Ablauf sowie zur Vorbereitung der Stationen. 
 - **Anleitung:** Detaillierte Stationsanleitungen mit Lösungen für die anleitende Person
 - **Einleitung und Finale:** Präsentationen für die Einführung sowie den Abschluss
 - **TaskCard Pinnwand:** Arbeitsumgebung für die Umsetzung mit den Teilnehmenden - https://ms-digital.taskcards.app/#/board/4a86e9a5-30eb-4588-8043-827c05504fed/view 
