@@ -68,7 +68,6 @@ Hier sind alle Materialien und Informationen hinterlegt, die benötigt werden, u
 - **Umsetzungsanleitung:** FOLGT IN KÜRZE: Für den ersten Einstieg bietet sich die Präsentation zur Umsetzung für die vermittelnd tätigen Personen an. Dort findet Ihr Infos zum Ablauf sowie zur Vorbereitung der Stationen. 
 - **Anleitung:** Detaillierte Stationsanleitungen mit Lösungen für die anleitende Person
 - **Einleitung und Finale:** Präsentationen für die Einführung sowie den Abschluss
-- **TaskCard Pinnwand:** Arbeitsumgebung für die Umsetzung mit den Teilnehmenden - https://ms-digital.taskcards.app/#/board/4a86e9a5-30eb-4588-8043-827c05504fed/view
 - **TaskCard Pinnwand als OER mit Schreibrechten** https://ms-digital.taskcards.app/#/board/7518cb3e-486a-461a-a5b9-db6cb6c2d192?token=62498a0a-6018-4ac3-9098-a0648cae304f
 - **7 Stationen:** offene Arbeitsdateien, Dateien für die TaskCard, Druck- und Umsetzungsmaterialien
 
