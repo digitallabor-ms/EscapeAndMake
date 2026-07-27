@@ -36,14 +36,14 @@ Die Aufgaben bestehen aus **7 Stationen**. An jeder Station müssen zunächst R�
 | 1 Das Überwachungsvideo | Überwachungsvideo ersetzen | Greenscreen-Filmtechnik | Greenscreen by Doink 
 | 2 Die Schlüsselkarte | Schlüsselkarte fälschen | Lasercutting | Mr. Beam Lasercutter und Shaper Trace
 | 3 Der USB-Stick| USB-Stick duplizieren | 3D-Druck | Prusa und BambuLab p1s, mini
-| 4 Der Lichtschalter | Lichtschalter betätigen | programmierbarer Roboter| Lego Spike, Mbot 2, Calliope 
+| 4 Der Lichtschalter | Lichtschalter betätigen | programmierbarer Roboter| Mbot 2, Calliope mini V3 mit Motionkit
 | 5 Der Drohnenflug | Datenstick transportieren | Drohnenfliegen mit Code | Tello, Litebee Wing
 | 6 Das Erpresserviedeo | Erpresservideo drehen | Stop Motion Filmtechnik | Stop Motion Studio
-| 7 Der Presseartikel | Presseartikel verfassen | Künstliche Intelligenz | fobizz
+| 7 Der Presseartikel | Medienbeitrag erstellen | Künstliche Intelligenz | fobizz
 
 ## Zielgruppe
 
-Das Konzept eignet sich für Gruppen von 14 bis 35 Personen ab 10 Jahren. Die Teilnehmer:innen arbeiten in Kleingruppen (2 bis 5 Personen pro Station) und benötigen keine Vorkenntnisse im Umgang mit den gelisteten Technologien. Jedoch sollten möglichst alle Stationen von einer Person begleitet werden. Wir haben das Format mit einer Gruppengröße von 30 Personen auch schon erfolgreich mit jeweils einer Person an zwei Stationen umgesetzt. 
+Das Konzept eignet sich für Gruppen von 14 bis 35 Personen ab 10 Jahren. Die Teilnehmer:innen arbeiten in Kleingruppen (2 bis 5 Personen pro Station) und benötigen keine Vorkenntnisse im Umgang mit den gelisteten Technologien. Jedoch sollten möglichst alle Stationen von einer Person begleitet werden. Wir haben das Format bei einer Gruppengröße von 30 Personen auch schon erfolgreich mit jeweils einer Person an zwei Stationen umgesetzt. 
 
 ## Zeitrahmen
 
